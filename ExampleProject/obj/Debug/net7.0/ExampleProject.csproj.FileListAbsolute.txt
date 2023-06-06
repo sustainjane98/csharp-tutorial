@@ -1,0 +1,15 @@
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/bin/Debug/net7.0/ExampleProject
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/bin/Debug/net7.0/ExampleProject.deps.json
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/bin/Debug/net7.0/ExampleProject.runtimeconfig.json
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/bin/Debug/net7.0/ExampleProject.dll
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/bin/Debug/net7.0/ExampleProject.pdb
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.csproj.AssemblyReference.cache
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.AssemblyInfoInputs.cache
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.AssemblyInfo.cs
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.csproj.CoreCompileInputs.cache
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.dll
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/refint/ExampleProject.dll
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.pdb
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ExampleProject.genruntimeconfig.cache
+/Users/janewill/Desktop/csharp-tutorial/ExampleProject/obj/Debug/net7.0/ref/ExampleProject.dll
